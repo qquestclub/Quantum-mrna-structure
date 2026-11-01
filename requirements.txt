@@ -1,0 +1,8 @@
+qiskit
+qiskit-algorithms
+qiskit-nature
+numpy
+pandas
+matplotlib
+biopython
+pytest
